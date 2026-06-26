@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Aggregator project for Chapter 2 labs (Spring Core & DI) -->
+    <groupId>com.lab</groupId>
+    <artifactId>chuong2-labs</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+
+    <!-- Each lab is an independent runnable Maven module -->
+    <modules>
+        <module>lab1-spring-di</module>
+        <module>lab2-bean-lifecycle</module>
+        <module>lab3-spring-boot</module>
+    </modules>
+</project>
