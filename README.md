@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:taihuu299@gmail.com">
-    <img src="https://img.shields.io/badge/-taihuu299%40gmail.com-1A1B27?style=flat-square&logo=gmail&logoColor=7AA2F7&labelColor=1A1B27" alt="Email" />
+  <a href="mailto:let607436@gmail.com">
+    <img src="https://img.shields.io/badge/-let607436%40gmail.com-1A1B27?style=flat-square&logo=gmail&logoColor=7AA2F7&labelColor=1A1B27" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/-Ho%20Chi%20Minh%20City-1A1B27?style=flat-square&logo=googlemaps&logoColor=7AA2F7&labelColor=1A1B27" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=thanhhdev&style=flat-square&color=7AA2F7&labelColor=1A1B27&label=PROFILE+VIEWS" alt="Profile views" />
