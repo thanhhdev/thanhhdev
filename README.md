@@ -49,11 +49,21 @@ Mình giữ repo này để:
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=thanhhdev&theme=tokyonight&hide_border=true&background=1A1B27&stroke=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakNum=A9B1D6&sideNums=A9B1D6&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" alt="GitHub streak stats" />
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhhdev/thanhhdev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhhdev/thanhhdev/output/github-snake.svg" />
+    <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/thanhhdev/thanhhdev/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## Liên hệ
 
-- Email: `taihuu299@gmail.com`
+- Email: `let607436@gmail.com`
 - GitHub: [thanhhdev](https://github.com/thanhhdev)
 
 <div align="center">
